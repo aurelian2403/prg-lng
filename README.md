@@ -14,8 +14,14 @@ C programming:
 C Programming Language sites:
 https://sites.google.com/view/prg-lng/c
 
+* Kernighan and Ritchie site: https://sites.google.com/view/prg-lng-kr/
+* 
+
 C Programming Language blogs:
 https://prg-lngs.blogspot.com/p/c.html
+
+* Kernighan and Ritchie blog: https://prg-lng-kr.blogspot.com/
+* 
 
 ***
 
